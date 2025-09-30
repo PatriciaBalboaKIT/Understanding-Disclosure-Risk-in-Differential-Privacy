@@ -1,5 +1,12 @@
 # Understanding Disclosure Risk in Differential Privacy with Applications to Noise Calibration and Auditing
-This repo holds the code and result files for all experiments performed for the paper "Understanding Disclosure Risk in Differential Privacy with Applications to Noise Calibration and Auditing" by Patricia Guerra-Balboa, Annika Sauer, Héber Hwang Arcolezi and Thorsten Strufe.
+This repo holds the code and result files for all experiments performed for the paper "Understanding Disclosure Risk in Differential Privacy with Applications to Noise Calibration and Auditing" by Patricia Guerra-Balboa, Annika Sauer, Héber Hwang Arcolezi and Thorsten Strufe. In particular:
+
+1.  `Long_version.pdf` is the extended version of the submission that contains all the formal proofs of the results presented in the paper.
+2.  The datasets used in the experiments.
+3.  The source code for the utility experiments, as well as for any related plots.
+4.  The code to generate the plots of the formulas represented in the paper.
+
+
 
 ## Git LFS
 This repository uses [Git Large File Storage (LFS)](https://git-lfs.github.com/) to manage large files, such as `.pkl` or `.csv`.  
