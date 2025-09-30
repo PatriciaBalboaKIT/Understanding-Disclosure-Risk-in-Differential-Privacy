@@ -7,6 +7,9 @@ This repo holds the code and result files for all experiments performed for the 
 4.  The code to generate the plots of the formulas represented in the paper.
 
 
+## Basic Requirements
+A 8-core CPU will suffice. At least 32GB RAM are recommended for training the ML models. Required storage is 6GB, which includes the raw data for the Geolife and Porto Taxi datasets. For efficient ML experiments, a GPU is recommended.
+
 
 ## Git LFS
 This repository uses [Git Large File Storage (LFS)](https://git-lfs.github.com/) to manage large files, such as `.pkl` or `.csv`.  
