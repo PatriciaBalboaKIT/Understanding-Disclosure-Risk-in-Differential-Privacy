@@ -68,7 +68,7 @@ Activate the corresponding environment
 ```bash
 conda activate wb
 ```
-Each attack (MIA, AIA, DRA) has its own folder with the scripts `mnist_script.sh` and `fashion_script.sh` to run the attack on the respective dataset. Each script takes about 5 days to execute.
+Each attack (MIA, AIA, DRA) has its own folder with the scripts `mnist_script.sh` and `fashion_script.sh` to run the attack on the respective dataset. Each script takes about 4 days to execute with GPU acceleration.
 
 To run an attack, from the top-level project directory run
 ```bash
